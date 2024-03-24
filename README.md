@@ -1,3 +1,1 @@
-# abrahamsnake
-
-![Contribution eating snake](https://raw.githubusercontent.com/whoabuddy/whoabuddy/gh-pages/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
